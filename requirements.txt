@@ -2,3 +2,4 @@ mkdocs
 mkdocs-cinder
 cookiecutter
 pytest
+git+https://github.com/CardoAI/cardoai-data-science-lib.git@develop
